@@ -4,7 +4,7 @@ from datetime import datetime
 from datetime import timedelta
 import pickle
 
-"""new comit add"""
+"""new comit added"""
 
 class Field:
     def __init__(self, value):
